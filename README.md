@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mathanu
-- 👀 I’m interested in API development and React Development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Node API development and React Development
 - 📫 Reach Me @mathanu27@yahoo.com
 
 <!---
